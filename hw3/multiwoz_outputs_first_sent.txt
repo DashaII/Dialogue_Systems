@@ -1,0 +1,201 @@
+1 context> I'm looking for a local place to dine in the centre that serves chinese food.
+1 answer>  Do you have a price range preference?
+2 context> My husband and I are celebrating our anniversary and want to find a great place to stay in town.
+2 answer>  What area of town will you be staying in?
+3 context> I need a taxi to come to backstreet bistro by 19:30.
+3 answer>  What is your departure site?
+4 context> I'm looking for a place to go in the west of town.
+4 answer>  What type of attraction are you interested in?
+5 context> I'm looking for an expensive restaurant in the centre.
+5 answer>  What type of food are you looking for?
+6 context> I want general information on places to go in the centre area of town.
+6 answer>  What type of attraction are you interested in?
+7 context> i want information about a place i can see local attractions.
+7 answer>  What type of attraction are you interested in?
+8 context> I'm looking to play a variety of sports. Are there facilities that cater to that?
+8 answer>  I'm sorry, there are no [type] attractions in the area. Would you like to try another area?
+9 context> Are there any accommodations in the east part of town that off free parking?
+9 answer>
+10 context> I need to book a train for Monday going to Cambridge please.
+10 answer>  Where are you departing from?
+11 context> I need a train going to bishops stortford.
+11 answer>  What day and time would you like to travel?
+12 context> I'd like to find a train from Leiceter on Saturday.
+12 answer>
+13 context> I'm looking for a nice place to stay, somewhere expensive and luxurious with all the amenities like free wifi. Can you recommend something like that?
+13 answer>
+14 context> I'm looking for a train leaving on Wednesday that's going to Cambridge.
+14 answer>  Where are you departing from?
+15 context> I need a train from birmingham new street to cambridge, please.
+15 answer>  What day and time would you like to travel?
+16 context> I'm looking for a 4 star hotel in the south.
+16 answer>  [name] is available.
+17 context> Are there any restaurants that serve christmas food around?
+17 answer>
+18 context> I'm looking for a Japanese restaurant in the north of the centre.
+18 answer>  [name] is a [food] restaurant in the [area]. Would you like me to book a table for you?
+19 context> I'd like to find a place to dine in the north please.
+19 answer>  Do you have a price range preference?
+20 context> I'm looking for a moderately priced Spanish restaurant.
+20 answer>  I'm sorry, I'm not finding anything. Would you like to try a different price range?
+21 context> Hello, I need a train leaving cambridge, please.
+21 answer>  What is your destination?
+22 context> I want to check out some colleges around here
+22 answer> . Do you have a specific area in mind?
+23 context> I'd like a train that is departing from Cambridge and is going to London Liverpool street.
+23 answer>  What day and time would you like to travel?
+24 context> I'd like to be picked up today from alexander bed and breakfast
+24 answer> , located at [address] [postcode]
+25 context> I will be in the centre area and I need a place to go.
+25 answer>  Do you have a specific type of attraction in mind?
+26 context> I am looking for a particular restaurant called city stop restaurant.
+26 answer>  It is an [food] restaurant in the [area]. Would you like to book a table?
+27 context> I need a cheap place to dine at in the north.
+27 answer>  Do you have a food type preference?
+28 context> Is there a train schedule for sunday?
+28 answer>
+29 context> I'm looking for an expensive restaurant in the center of the town.
+29 answer>  What type of food are you looking for?
+30 context> I would like to try some chinese food while I am visiting cambridge.
+30 answer>  What area of town would you like to eat in?
+31 context> Hi. Can you help me find a train?
+31 answer>
+32 context> I am looking to get some information on gonville hotel.
+32 answer>  [name] is a [pricerange] [stars] star [type] in the [area]. It offers free wifi and parking.
+33 context> I'm looking for something to do in the west. What would you recommend?
+33 answer>
+34 context> I want a train that is going to cambridge.
+34 answer>  Where will you be departing from?
+35 context> Hi, I need a train that leaves on Wednesday and arrives by 08:45.
+35 answer>  Where are you departing from?
+36 context> Could you tell me where Cotto is located?
+36 answer>  It is located at [address]
+37 context> i'm looking for multiple sports in the centre
+37 answer> . I'm sorry, there are no [type] in the [area]. Would you like me to look in a different area?
+38 context> I am on a budget and need a cheap place to eat.
+38 answer>  Is there a type of food you would like?
+39 context> Hi, I am looking for a train from Ely to Cambridge.
+39 answer>  What day and time would you like to travel?
+40 context> I'm looking for information in Cambridge. Can you help?
+40 answer>
+41 context> Howdy, I need a train heading into cambridge.
+41 answer>  What day and time would you like to travel?
+42 context> Hi there. I'm trying to find a place to eat tonight. I'd like it to be more high end and expensive, and serve gastropub food. Can you help me?
+42 answer>
+43 context> What can you tell me about the Riverside Brasserie?
+43 answer>  It is a [food] restaurant in the [area]. It is [pricerange] and located at [address].
+44 context> I need a room in cambridge please
+44 answer> . What type of hotel are you looking for?
+45 context> Yes, hello. I need a place to crash so I'm thinking a 0-star guesthouse
+45 answer>  is a no problem. I have [choice] [type]s that are [stars] star. Do you have a price range in mind?
+46 context> I need a train from bishops stortford into cambridge, please.
+46 answer>  What day and time would you like to travel?
+47 context> Do you have information on La Raza?
+47 answer>  It is an [food] restaurant in the [area] area. It is [pricerange].
+48 context> I'm looking for a cheap hotel in the east.
+48 answer>  [name] is available.
+49 context> Hi, I'm looking for a place to go in the east.
+49 answer>  What type of attraction are you interested in?
+50 context> I'm looking for a expensive restaurant that serves north american food.
+50 answer>  There are no restaurants that meet your criteria. Would you like to try something else?
+51 context> I am throwing a party with friends with a theme from the move "IT", can I details on the restaurant with the name clowns cafe? It may add a nice touch.
+51 answer>  [name] is a [food] restaurant in the [area]. It is [pricerange].
+52 context> I'd like a train from Birmingham New Street that will arrive by 12:45, please.
+52 answer>  What day will you be traveling?
+53 context> Find me a train on thursday that should arrive by 15:30.
+53 answer>  Where are you departing from?
+54 context> I need some information on the A and B Guest House.
+54 answer>  It is a [pricerange] [stars] star [type] in the [area]. It has free internet and parking.
+55 context> I need to take a train departing from stansted airport?
+55 answer>  What day and time would you like to travel?
+56 context> Hi, I am coming to Cambridge soon and am excited to eat at some great restaurants. Can you recommend an attraction for me to visit while I'm there?
+56 answer>
+57 context> I'm planning a trip to Cambridge I am looking for places to go in centre.
+57 answer>  Do you have a certain type of attraction you'd like to see?
+58 context> Hi. Is there a hotel named Home from Home? I think I have heard of that.
+58 answer>  It is a [type] in the [area]. It is a [stars] star [type] with free internet and parking. Would you like to book a room?
+59 context> Hi. I need to find a train.
+59 answer>
+60 context> I would like to book a taxi for after 01:15 pm and i will be going to milton country park.
+60 answer>  Where will you be departing from?
+61 context> Hello, I am looking for an expensive Italian restaurant in Cambridge.
+61 answer>  Is there a certain area you would like to stay in?
+62 context> I need to find a train leaving on Thursday going to Cambridge.
+62 answer>  Where are you departing from?
+63 context> Find a train to leicester that arrives by 21:00.
+63 answer>  What day will you be traveling?
+64 context> Hi, I am looking for a guesthouse with free parking. Can you help me?
+64 answer>
+65 context> Hi! I'm really excited about visiting soon and would like to go to a restaurant in the centre that serves European food. Can you help me?
+65 answer>
+66 context> I need a train leaving broxbourne after 17:00.
+66 answer>  What day will you be traveling?
+67 context> Can you help me find a good thai restaurant in the west?
+67 answer>  [name] is a good one.
+68 context> I'm looking for a museum attraction in the west.
+68 answer>  There are [choice] [type] in the [area]. [name] is a great place.
+69 context> I am looking for the attraction whipple museum of the history of science.
+69 answer>  It is located at [address] and the postcode is [postcode].
+70 context> Yes, could you help me with some information on places to go in town?
+70 answer>
+71 context> I need to find a barbeque restaurant in the centre of town.
+71 answer>  Would you like a specific price range?
+72 context> Can you find me a guesthouse with free parking?
+72 answer>
+73 context> We are in cambridge for a visit and looking for an expensive place to dine in the centre. Are there any expensive Italian restaurants in the centre?
+73 answer>
+74 context> I need a train going to Cambridge.
+74 answer>  Where are you departing from?
+75 context> Hi, can you find the hotel Kirkwood House?
+75 answer>  It is located at [address]
+76 context> I am looking for a gastropub.
+76 answer>  I have [choice] [food] in the [area] and [choice] in the [area]. Do you have a preference?
+77 context> I need a train leaving from london liverpool street.
+77 answer>  What day and time would you like to travel?
+78 context> I am looking for a train to cambridge that should arrive by 13:30.
+78 answer>  Where are you departing from?
+79 context> I'm looking for a train please.
+79 answer>  Where are you departing from and what is your destination?
+80 context> Hi. I'm looking for a restaurant. I think it's called the Rice Ship or Rice Boat or something like that.
+80 answer>  Would you like to know more about it?
+81 context> I need to book a hotel in the east that has 4 stars.
+81 answer>  [name] is available, would you like to book that?
+82 context> Can you help me find an interesting college to visit?
+82 answer>
+83 context> I'm looking for a train departing from ely on monday.
+83 answer>  What is your destination?
+84 context> Can you help me find an expensive restaurant in the west?
+84 answer>
+85 context> Yes I'm looking for a train that departs on Wednesday from Peterborough.
+85 answer>
+86 context> Hi, I'm looking for an expensive restaurant.
+86 answer>  What type of food would you like?
+87 context> I'm in need of a train that leaves from Peterborough and arrives by 18:30.
+87 answer>  What is your destination?
+88 context> Hi I'm looking for lodging in Cambridge that includes free wifi and is upscale and expensive
+88 answer> . Do you have a preference on the area?
+89 context> Please find a place to eat that serves South Indian food in the center.
+89 answer>  I have [choice] restaurants that match your request. Would you like to try [name]?
+90 context> I'd like to find a train please.
+90 answer>  Where are you departing from and where is your destination?
+91 context> I am looking for information on Magdalene College.
+91 answer>  It is located in the [area] and is [entrancefee] to enter.
+92 context> I'm looking for some places to go in the west area of town.
+92 answer>  What type of attraction are you interested in?
+93 context> I'm looking to book at a hotel call lovell lodge.
+93 answer>  Would you like to book a room?
+94 context> I'm looking for a place to stay on my trip to Cambridge. It needs to have free wifi but doesn't need to have free parking.
+94 answer>
+95 context> I am looking for an entertainment attraction in the centre of town.
+95 answer>  There are [choice] [type] attractions in the [area]. Would you like more information on one of them?
+96 context> Hey, I'm trying to book a taxi today
+96 answer> . Where are you going?
+97 context> Hi there. I'm trying to impress my girlfriend and was wondering if there might be a really nice british restaurant in town?
+97 answer>  I have [choice] [food] restaurants. Is there a certain area you prefer?
+98 context> I'm looking for a train going to cambridge, departing from norwich.
+98 answer>  What day and time would you like to travel?
+99 context> I need a place to stay in the east that includes free wifi.
+99 answer>  Do you have a price range or star rating you prefer?
+100 context> Hello. I'm looking for a hotel on the north end of town with a 4 star rating.
+100 answer>
+

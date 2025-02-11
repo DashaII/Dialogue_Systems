@@ -1,0 +1,67 @@
+Batch 0 normal:
+[
+  {
+    "context": [
+      "I need a place to stay that has 4 stars and includes free parking.",
+      "There are many high quality places to stay here, we have 19 4 stars places to choose from, any other preferences?",
+      "I would like it to be in the east.",
+      "Autumn house is available, would you like to book that?",
+      "I need a reservation for 7 people for 3 nights starting on thursday. Can you please book that for me?"
+    ],
+    "utterance": "All set. Your reference number is TQA52SN1 .",
+    "delex_utterance": "All set. Your reference number is [ref] ."
+  },
+  {
+    "context": [
+      "I'm going south in town, anything interesting to go to there?",
+      "Yes, we have several popular attractions in the south part of town. Are you looking for a specific type of place? Or do you want a recommendation?",
+      "I'll take a recommendation.",
+      "I think you would like the Tenpin. Would you like more information on it?",
+      "Yes, could I get the address, postcode and entrance fee?"
+    ],
+    "utterance": "Sure, their address is Cambridge Leisure Park, Clifton Way in postcode cb17dy. Their phone is 08715501010.",
+    "delex_utterance": "Sure, their address is [address] in postcode [postcode]. Their phone is [phone]."
+  },
+  {
+    "context": [
+      "I'd like a train leaving on Tuesday from Kings Lynn, please.",
+      "Is there a particular time you'd like to leave or arrive by?",
+      "I would like to arrive in cambridge by 17:30.",
+      "Ok I can book you on TR8177 from Kings lynn to Cambridge on Tuesday. How many seats do you need?",
+      "I just needed the info, no booking just yet. Thanks! goodbye.",
+      "Thank you for using or system. Good bye.",
+      "Have a great day"
+    ],
+    "utterance": "Thank you and have a great day.",
+    "delex_utterance": "Thank you and have a great day."
+  },
+  {
+    "context": [
+      "I am trying to book a train to peterborough. Can you help me?",
+      "There are many trains to peterborough. Can you tell me where you'll be leaving from and what day and time you're interested in traveling?",
+      "I am not sure what time I need to leave but has to be Saturday and depart from cambridge to arrive by 11:45"
+    ],
+    "utterance": "I can book you for an arrival by 11:24 and leaves at 10:34. Would you like me to book that for you?",
+    "delex_utterance": "I can book you for an arrival by [arriveby] and leaves at [leaveat]. Would you like me to book that for you?"
+  },
+  {
+    "context": [
+      "I am looking for a restaurant that serves british food in cambridge in the moderate price range",
+      "We have several options, and most are in the center of town. I recommend Cotto!",
+      "Can you make me a reservation please?",
+      "Absolutely! May I please have the day and time and also the number of people attending?",
+      "Actually, I would just like the address, postcode and phone number instead at this time."
+    ],
+    "utterance": "Here is that information,phone-01223302010 post code-cb11bg Address-183 East Road City Centre",
+    "delex_utterance": "Here is that information,phone-[phone] post code-[postcode] Address-[address]"
+  }
+]
+Batch 0 collate:
+{'context': [[50257, 40, 761, 257, 1295, 284, 2652, 326, 468, 604, 5788, 290, 3407, 1479, 7647, 13, 50258, 1858, 389, 867, 1029, 3081, 4113, 284, 2652, 994, 11, 356, 423, 678, 604, 5788, 4113, 284, 3853, 422, 11, 597, 584, 15387, 30, 50257, 40, 561, 588, 340, 284, 307, 287, 262, 7627, 13, 50258, 16541, 4182, 2156, 318, 1695, 11, 561, 345, 588, 284, 1492, 326, 30, 50257, 40, 761, 257, 24048, 329, 767, 661, 329, 513, 12513, 3599, 319, 294, 3479, 13, 1680, 345, 3387, 1492, 326, 329, 502, 30], [50257, 40, 1101, 1016, 5366, 287, 3240, 11, 1997, 3499, 284, 467, 284, 612, 30, 50258, 5297, 11, 356, 423, 1811, 2968, 29156, 287, 262, 5366, 636, 286, 3240, 13, 4231, 345, 2045, 329, 257, 2176, 2099, 286, 1295, 30, 1471, 466, 345, 765, 257, 15602, 30, 50257, 40, 1183, 1011, 257, 15602, 13, 50258, 40, 892, 345, 561, 588, 262, 9368, 11635, 13, 10928, 345, 588, 517, 1321, 319, 340, 30, 50257, 5297, 11, 714, 314, 651, 262, 2209, 11, 1281, 8189, 290, 10384, 6838, 30], [50257, 40, 1549, 588, 257, 4512, 4305, 319, 3431, 422, 10578, 24868, 11, 3387, 13, 50258, 3792, 612, 257, 1948, 640, 345, 1549, 588, 284, 2666, 393, 9240, 416, 30, 50257, 40, 561, 588, 284, 9240, 287, 12172, 9458, 416, 1596, 25, 1270, 13, 50258, 18690, 314, 460, 1492, 345, 319, 7579, 23, 22413, 422, 10578, 31432, 77, 284, 14457, 319, 3431, 13, 1374, 867, 8632, 466, 345, 761, 30, 50257, 40, 655, 2622, 262, 7508, 11, 645, 25452, 655, 1865, 13, 6930, 0, 24829, 13, 50258, 10449, 345, 329, 1262, 393, 1080, 13, 4599, 33847, 13, 50257, 11980, 257, 1049, 1110], [50257, 40, 716, 2111, 284, 1492, 257, 4512, 284, 279, 2357, 17913, 13, 1680, 345, 1037, 502, 30, 50258, 1858, 389, 867, 13404, 284, 279, 2357, 17913, 13, 1680, 345, 1560, 502, 810, 345, 1183, 307, 4305, 422, 290, 644, 1110, 290, 640, 345, 821, 4609, 287, 11300, 30, 50257, 40, 716, 407, 1654, 644, 640, 314, 761, 284, 2666, 475, 468, 284, 307, 3909, 290, 6313, 422, 12172, 9458, 284, 9240, 416, 1367, 25, 2231], [50257, 40, 716, 2045, 329, 257, 7072, 326, 9179, 275, 799, 680, 2057, 287, 12172, 9458, 287, 262, 10768, 2756, 2837, 50258, 1135, 423, 1811, 3689, 11, 290, 749, 389, 287, 262, 3641, 286, 3240, 13, 314, 4313, 327, 17631, 0, 50257, 6090, 345, 787, 502, 257, 24048, 3387, 30, 50258, 40501, 0, 1737, 314, 3387, 423, 262, 1110, 290, 640, 290, 635, 262, 1271, 286, 661, 11969, 30, 50257, 26417, 11, 314, 561, 655, 588, 262, 2209, 11, 1281, 8189, 290, 3072, 1271, 2427, 379, 428, 640, 13]], 'utterance': [[3237, 900, 13, 3406, 4941, 1271, 318, 309, 48, 32, 4309, 15571, 16, 764], [19457, 11, 511, 2209, 318, 14457, 1004, 20609, 3250, 11, 1012, 361, 1122, 6378, 287, 1281, 8189, 269, 65, 1558, 9892, 13, 5334, 3072, 318, 657, 5774, 18742, 486, 20943, 13], [10449, 345, 290, 423, 257, 1049, 1110, 13], [40, 460, 1492, 345, 329, 281, 10325, 416, 1367, 25, 1731, 290, 5667, 379, 838, 25, 2682, 13, 10928, 345, 588, 502, 284, 1492, 326, 329, 345, 30], [4342, 318, 326, 1321, 11, 4862, 12, 486, 22047, 1270, 10333, 1281, 2438, 12, 21101, 1157, 35904, 17917, 12, 24839, 3687, 5567, 2254, 9072]], 'delex_utterance': [[3237, 900, 13, 3406, 4941, 1271, 318, 685, 5420, 60, 764], [19457, 11, 511, 2209, 318, 685, 21975, 60, 287, 1281, 8189, 685, 7353, 8189, 4083, 5334, 3072, 318, 685, 4862, 4083], [10449, 345, 290, 423, 257, 1049, 1110, 13], [40, 460, 1492, 345, 329, 281, 10325, 416, 685, 283, 11590, 1525, 60, 290, 5667, 379, 685, 47408, 265, 4083, 10928, 345, 588, 502, 284, 1492, 326, 329, 345, 30], [4342, 318, 326, 1321, 11, 4862, 49146, 4862, 60, 1281, 2438, 49146, 7353, 8189, 60, 17917, 49146, 21975, 60]]}
+Number of tokens in batch 0:
+[82, 82, 82, 82, 81]
+Number of tokens in batch 0 after collate:
+[104, 118, 110, 104, 113]
+Train 56776
+Valid 7374
+Test 7372
